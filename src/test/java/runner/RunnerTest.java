@@ -16,6 +16,6 @@ import io.cucumber.junit.CucumberOptions;
 		)
 
 
-public class RunnerTest {
+public class RunnerTest extends AbstractTestNGCucumberTests{
 
 }
