@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Test End to End Contact Page functionality
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.636 s - in Test End to End Contact Page functionality
